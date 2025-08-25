@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: my-java-container
-          image: tangalalakshmi/Devops-6pm:v1
+          image: tangalalakshmi/devops-6pm:v1
           ports:
             - containerPort: 8080
